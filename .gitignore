@@ -1,0 +1,9 @@
+PREDICTED_IMAGES_YOLO11/
+PREDICTED_IMAGES_YOLOV8/
+
+yolov8s.pt
+yolo11s.pt
+yolo26n.pt
+
+__pycache__/
+.ipynb_checkpoints/

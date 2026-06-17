@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['center', 'notch']
+
+roboflow:
+  workspace: pabbathis-workspace
+  project: wheel_center_notch_detection
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/pabbathis-workspace/wheel_center_notch_detection/1
